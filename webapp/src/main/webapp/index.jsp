@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to MyCloudGalaxy  !!! </h1>
-<h2> One more build - version-1  - Deployment on Docker container !!! </h2>
+<h1> Hello, Welcome to MyCloudGalaxy - Batch April  !!! </h1>
+<h2> Build - version-1(30-05-2021)  - Deployment on EC2 Instances !!! </h2>
 
 
