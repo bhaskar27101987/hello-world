@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to MyCloudGalaxy - Batch June  !!! </h1>
-<h2> Build - version-2(24-07-2021) - Deployment on EC2 Instances(Tomcat) - Via Ansible deployment server !!! </h2>
+<h2> Build - version-3(25-07-2021) - Deployment on Docker(Tomcat) - Via Jenkins Server !!! </h2>
 
 
