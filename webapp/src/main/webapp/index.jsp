@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to MyCloudGalaxy - Batch Aug  !!! </h1>
-<h2> Build - version-4(23-10-2021) - Deployment on Tomcat - Via Jenkins Server and Ansible !!! </h2>
+<h1> Hello, Welcome to MyCloudGalaxy - Batch Jan-2022  !!! </h1>
+<h2> Build - version-4(19-02-2022) - Deployment on Tomcat - Via Jenkins Server to Tomcat (Project-1) !!! </h2>
 
 
